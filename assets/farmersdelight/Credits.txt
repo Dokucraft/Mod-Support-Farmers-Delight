@@ -1,5 +1,6 @@
 
 - SyndiShanX contributed onion item, milk, juice, suace, tomato item, honey cookie, gui textures (potentially from other sources such as Stash or Pam's, etc.)
+- gui support by SyndiShanx
 - Rope item texture is from whoever made additional additions (narwhal?)
 - Conquest Reforged Texture Pack - Farmers Delight support used for Canvas block, raw pasta, textures
 - CCCode 22964 and 23833 for diamond and netherite knives
